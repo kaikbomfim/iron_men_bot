@@ -1,0 +1,20 @@
+{
+    "conversations": [
+        {
+            "messages": ["oi", "olá", "oi, tudo bem?", "olá, tudo bem?", "oi, td bem?", "olá, td bem?", "e aí", "eae", "e aí, beleza?", "eae, beleza?", "tudo bem?", "td bem?"],
+            "replies": "Olá, sou o IronBot, assistente virtual da academia Iron Men. Em que posso ajudar?"
+        },
+        {
+            "messages": ["bom dia", "oi, bom dia", "olá, bom dia", "e aí, bom dia", "eae, bom dia"],
+            "replies": "Bom dia, sou o IronBot, assistente virtual da academia Iron Men. Em que posso ajudar?"
+        },
+        {
+            "messages": ["boa tarde", "oi, boa tarde", "olá, boa tarde", "e aí, boa tarde", "eae, boa tarde"],
+            "replies": "Boa tarde, sou o IronBot, assistente virtual da academia Iron Men. Em que posso ajudar?"
+        },
+        {
+            "messages": ["boa noite", "oi, boa noite", "olá, boa noite", "e aí, boa noite", "eae, boa noite"],
+            "replies": "Boa noite, sou o IronBot, assistente virtual da academia Iron Men. Em que posso ajudar?"
+        }
+    ]
+}

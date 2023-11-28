@@ -1,0 +1,108 @@
+{
+    "conversations": [
+        {
+            "messages": [
+                "onde a academia iron men está localizada?",
+                "onde a iron men está localizada?",
+                "onde está localizada a academia iron men?",
+                "onde fica localizada a iron men?",
+                "onde está localizada a iron men?",
+                "onde fica a academia iron men?",
+                "onde fica a iron men?",
+                "onde a academia iron men fica?",
+                "onde a iron men fica?",
+                "onde vocês funcionam?",
+                "onde a academia iron men funciona?",
+                "onde a iron men funciona?",
+                "qual é a localização da academia iron men?",
+                "qual é a localização da iron men?",
+                "qual é o endereço da academia iron men?",
+                "qual é o endereço da iron men?"
+            ],
+            "replies": "A Iron Men está localizada na Via Coletora, 908, Urbis V"
+        },
+        {
+            "messages": [
+                "qual é o horário de funcionamento da academia iron men?",
+                "qual é o horário de funcionamento da iron men?",
+                "qual o horário de funcionamento?",
+                "que horas vocês funcionam?",
+                "que horas a academia iron men funciona?",
+                "que horas a iron men funciona?",
+                "que horas vocês ficam aberto?"
+            ],
+            "replies": "A Iron Men funciona das 05h às 22h de segunda a sexta-feira e das 07h às 17h aos sábados."
+        },
+        {
+            "messages": [
+                "há alguma taxa de inscrição?",
+                "há alguma taxa de matrícula?",
+                "existe alguma taxa de inscrição?",
+                "existe alguma taxa de matrícula?",
+                "é necessário pagar alguma taxa de inscrição?",
+                "preciso pagar algum valor para me matricular?",
+                "preciso pagar algum valor para me inscrever?",
+                "tem taxa de inscrição?"
+            ],
+            "replies": "Para se matricular na Iron Men, é cobrada uma taxa de inscrição no valor de R$30,00. Se desejar, também oferecemos uma avaliação física inicial que inclui o cálculo de medidas corporais, massa magra, IMC e percentual de gordura, pelo valor de R$50,00."
+        },
+        {
+            "messages": [
+                "a academia iron men oferece aulas experimentais?",
+                "a iron men oferece aulas experimentais?",
+                "a iron men tem aulas experimentais?",
+                "a iron men tem aulas de cortesia?",
+                "a iron men oferece aulas de teste?",
+                "a iron men disponibiliza aulas de teste?"
+            ],
+            "replies": "O público interessado em conhecer a Iron Men tem o direito a uma aula experimental em cada uma das 3 modalidades a seguir: musculação, ginástica e dança (zumba)."
+        },
+        {
+            "messages": [
+                "que tipos de equipamentos a iron men possui?",
+                "que tipos de equipamentos a academia iron men possui?",
+                "a iron men possui quais tipos de equipamentos?",
+                "a academia iron men possui quais tipos de equipamentos?",
+                "quais são os equipamentos disponíveis na iron men?",
+                "quais tipos de máquinas a iron men oferece?"
+            ],
+            "replies": "A Iron Men possui uma infraestrutura completa que atende aos treinos dos principais agrupamentos musculares. Aqui você encontra equipamentos como:####- Cadeira Extensora##- Cadeira Abdutora e Adutora##- Leg Press 45°##- Hack Machine##- Smith Machine (Livre e Guiado)##- Supino Vertical, Reto e Inclinado##- Peck Deck##- Crossover##- Banco Romano##- Calf Machine (Panturrilha sentada)##- Banco de Rosca Direta/Barra W##- Halteres e anilhas livres##- Esteiras, Stepmill (escadas) e Bicicletas ergométricas##Dentre outros..."
+        },
+        {
+            "messages": [
+                "quais são os preços dos planos?",
+                "quais os valores dos planos disponíveis?",
+                "quais planos a iron men oferece?",
+                "quais planos a academia iron men oferece?",
+                "a iron men oferece quais planos?",
+                "a academia iron men oferece quais planos?",
+                "quais os preços dos planos?"
+            ],
+            "replies": "A Iron Men oferece os seguintes planos: ####TOTAL Mensal - R$84,99 - Horário Livre (1x ao dia)##TOTAL Trimestral - R$79,99 - Horário Livre (1x ao dia)##TOTAL Semestral - R$74,99 - Horário Livre (1x ao dia)##TOTAL Anual - R$69,99 - Horário Livre (1x ao dia)##LIGHT Mensal - R$74,99 - 09h às 16h (1x ao dia)##LIGHT Trimestral - R$69,99 - 09h às 16h - (1x ao dia)##LIGHT Semestral - R$64,99 - 09h às 16h (1x ao dia)##LIGHT Anual - R$59,99 - 09h às 16h (1x ao dia)##EXE. Mensal - R$74,99 - 3 dias/semana - Horário Livre (1x ao dia)##EXE. Trimestral - R$69,99 - 3 dias/semana - Horário Livre (1x ao dia)##EXE. Semestral - R$64,99 - 3 dias/semana - Horário Livre (1x ao dia)##EXE. Anual - R$59,99 - 3 dias/semana - Horário Livre (1x ao dia)"
+        },
+        {
+            "messages": [
+                "a iron men oferece aulas de dança?",
+                "a iron men oferece aulas de yoga?",
+                "a iron men oferece aulas de pilates?",
+                "a iron men oferece aulas de artes maciais?",
+                "a iron men oferece aulas de jiu-jitsu?",
+                "a iron men oferece aulas de boxe?",
+                "a iron men oferece aulas de judô?",
+                "a iron men oferece aulas de karatê?",
+                "a iron men oferece outras modalidades além da musculação?",
+                "a academia oferece aulas de dança?",
+                "a academia oferece aulas de yoga?",
+                "a academia oferece aulas de pilates?",
+                "a academia oferece aulas de artes marciais?",
+                "a academia oferece aulas de jiu-jitsu?",
+                "a academia oferece aulas de boxe?",
+                "a academia oferece aulas de judô?",
+                "a academia oferece aulas de karatê?",
+                "a academia oferece outras modalidades além da musculação?",
+                "além da musculação, a academia tem aulas de dança, artes marciais, pilates, yoga ou outras atividades?"
+            ],
+            "replies": "Além da musculação, a Iron Men oferece aulas de dança (zumba), ginástica para crianças e adultos e pilates."
+        }
+    ]
+}
