@@ -59,4 +59,4 @@ As mensagens estão configurados no diretório *conversations*. Para adicionar n
  ]
 ```
 
-Em seguida, deve-se treinar o chatbot para as novas informações, através do arquivo `training.py`.
+Em seguida, deve-se treinar o chatbot para obter as novas informações, através do arquivo `training.py`.
