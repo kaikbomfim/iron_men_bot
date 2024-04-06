@@ -4,7 +4,7 @@ A aplicação é um chatbot feito em python, para o atendimento do público que 
 
 ## Funcionalidades:
 
-O atendente esclarece informações a respeito da academia, como seu horário de funcionamento, localização, planos, principais equipamentos e modalidades. Perguntas dispoíveis:
+O atendente virtual esclarece informações a respeito da academia, como seu horário de funcionamento, localização, planos, principais equipamentos e modalidades. Perguntas dispoíveis:
 
 1. Onde a Iron Men está localizada?
 2. Qual é o horário de funcionamento da Iron Men?
